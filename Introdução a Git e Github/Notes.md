@@ -53,16 +53,21 @@ ex:  e962e591092e9830f8ec6c2a4166e8655b768e88 (formato semelhante)
 
 **git init:**
   Inicializa um repositório git.
-**git add:**
- git add * adiciona tudo que foi modificado para staged
-**git commit:**
 
-**git status**
+**git add:**
+ git add * adiciona tudo que foi modificado para staged.
+
+**git commit:**
+Adiciona altereções mais recentes, do código, ao repositório.
+
+**git status:**
+Verificar estado dos arquivos/diretórios.
 
 
 **Outros comnandos do bash:**
 
 **ls:** Lista o que há dentro da pasta atual;
+
 **ls -a:** Inclui arquivos ocultos na listagem;
 
 **mv:** move um arquivo.
